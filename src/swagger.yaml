@@ -1,5 +1,5 @@
 ---
-swagger: "3.0"
+swagger: "2.0"
 info: 
   description: "API de Cadastro de Produtos - Nova versão - 3.0"
   version: "3.0.0" 
